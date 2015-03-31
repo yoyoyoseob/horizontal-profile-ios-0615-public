@@ -8,7 +8,7 @@ languages: objc
 
   1. When the phone is in portrait mode, make a new "profile page" that looks like this. Feel free to use your creative judgement on the actual proportions. Remember! Grid!
 
-  ![](http://ironboard-curriculum-content.s3.amazonaws.com/iOS/horizontal-profile/portrait.png)
+  ![](https://ironboard-curriculum-content.s3.amazonaws.com/iOS/horizontal-profile/portrait.png)
 
   2. When the phone goes horizontal, let's hide that cover image and just display everything else. Grid!
 
